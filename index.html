@@ -72,7 +72,7 @@
         <h2>Hello people of the internet</h2>
 
         <p>
-        My name is Adam(more about me <a href="About.html">HERE</a> and this is my attempt at making a personal website
+        My name is Adam more about me <a href="About.html">HERE</a> and this is my attempt at making a personal website
         <br>
         i have always wanted to make a website but i didnt really know what i should put on it
         untill i seen a youtube video by <a href="https://www.youtube.com/watch?v=tkUgOT22F5s">onionboots</a> and learned more about the indie web
@@ -98,14 +98,10 @@
             - make my own guestbook<br>
             - stop the nyan cat sound from playing<br>
             when you hover in a certain spot under the rss button<br>
-            - center the pages properly
+         <s>   - center the pages properly</s>
         </p>
         <br>
-            <h2>ideas for the future</h2>
-        <p>
-            - make a thing to show what music im listening to<br>
 
-        </p>
  
 
     <!--class="container"-->
@@ -144,7 +140,6 @@
         var nyanLink = document.querySelector(".nyan a");
 
         if (nyanLink && audio) {
-            // 1. Play the sound when the mouse HOVERS OVER
             nyanLink.addEventListener("mouseenter", function() {
                 audio.currentTime = 0; // Start from the beginning
                 audio.play().catch(function(error) {

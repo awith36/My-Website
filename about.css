@@ -63,12 +63,44 @@ h3 {
 }
 
 .sidebar a:nth-child(1) img {
-    transform: translateY(-700px) translateX(-700px) rotate(-25deg);
+    transform: translateY(-1100px) translateX(-300px) rotate(-25deg);
 }
 
 .sidebar a:nth-child(2) img {
-    transform: translateY(-650px) translateX(700px) rotate(20deg);
+    transform: translateY(-900px) translateX(900px) rotate(20deg);
 }
+
+.sidebar a:nth-child(3) img {
+    transform: translateY(-600px) translateX(900px) rotate(-10deg);
+}
+
+.sidebar a:nth-child(4) img {
+    transform: translateY(-800px) translateX(-700px) rotate(15deg);
+}
+
+.sidebar a:nth-child(5) img {
+    transform: translateY(-1100px) translateX(600px) rotate(-20deg);
+}
+
+.sidebar a:nth-child(6) img {
+    transform: translateY(-500px) translateX(-900px) rotate(-5deg);
+}
+
+.sidebar a:nth-child(7) img {
+    transform: translateY(-400px) translateX(400px) rotate(-20deg);
+}
+
+.sidebar a:nth-child(8) img {
+    transform: translateY(-300px) translateX(-900px) rotate(20deg);
+}
+
+.sidebar a:nth-child(9) img {
+    transform: translateY(-200px) translateX(450px) rotate(20deg);
+}   
+
+
+
+
 
 .facts-socials {
     display: grid;

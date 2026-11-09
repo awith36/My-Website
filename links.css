@@ -10,26 +10,29 @@ h1 {
 
 body {
     background-color: black;
-    margin: 0px 350px;
     align-items: center;
     color: white;
 }
 
 .page {
     display: flex;
-    
     justify-content: center;
-    align-items: flex-start;
-    gap: 100px;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+    box-sizing: border-box;
 }
 
 .container {
     width: 700px;
+    max-width: 100%;
+    box-sizing: border-box;
+    margin: 0 auto;
+
     padding: 20px;
     background-color: #181818;
     text-align: center;
-    border-style: solid;
-    border-color: #39FF14;
+    border: 1px solid #39FF14;
 }
 
 .back img {

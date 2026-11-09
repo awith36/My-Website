@@ -1,0 +1,3 @@
+Test 26/9/2026
+just gettin the python script to handel the blog working
+image: media/stuff.gif

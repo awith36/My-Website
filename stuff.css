@@ -41,3 +41,41 @@ body {
 .back img:hover {
     transform: scale(105%);
 }
+
+
+
+
+
+
+
+
+
+
+.gallery .preview {
+  width: 100%;
+  height: auto;
+}
+
+.gallery .gallery-thumbnails {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.gallery .gallery-thumbnails img {
+  width: 100px;
+  height: 75px;
+  margin: 3px 10px 10px 0;
+}
+
+.gallery .gallery-thumbnails img:hover {
+  opacity: .8;
+  cursor: pointer;
+}
+
+.gallery .preview img#preview {
+  padding: 1px;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+}

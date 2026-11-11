@@ -124,15 +124,15 @@ p {
 }
 
 .sidebar_R a:nth-child(5) {
-    transform: rotate(-8deg) translateY(700px) translateX(80px);
+    transform: rotate(-8deg) translateY(700px) translateX(-200px);
 }
 
 .sidebar_R a:nth-child(6) {
-    transform: rotate(6deg) translateY(950px) translateX(-100px);
+    transform: rotate(6deg) translateY(900px) translateX(40px);
 }
 
 .sidebar_R a:nth-child(7) {
-    transform: rotate(-5deg) translateY(1100px) translateX(-150px);
+    transform: rotate(-5deg) translateY(1100px) translateX(0px);
 }
 
 .sidebar_R a:nth-child(10) {

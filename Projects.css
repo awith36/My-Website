@@ -36,6 +36,7 @@ article {
     text-align: center;
 }
 
+
 .rss img {
     transform: translateY(-50px) rotate(-10deg) translateX(310px);
     transition: 0.2s;

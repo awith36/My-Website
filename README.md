@@ -1,2 +1,2 @@
 # My-Website
-https://adams-stuff.neocities.org/
+adams-stuff.duckdns.org

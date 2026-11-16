@@ -135,6 +135,12 @@ p {
     transform: rotate(-5deg) translateY(1100px) translateX(-100px);
 }
 
+.sidebar_R a:nth-child(8) {
+    transform: rotate(200deg) translateY(1070px) translateX(1000px);
+    scale: 40%;
+}
+
+
 .sidebar_R a:nth-child(10) {
     transform: rotate(-5deg) translateY(1100px) translateX(-150px);
 }

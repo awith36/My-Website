@@ -98,6 +98,14 @@ h3 {
     transform: translateY(-200px) translateX(450px) rotate(20deg);
 }   
 
+/* 
+    do not ask why it took that much convincing to stay
+    on the page
+*/
+.sidebar a:nth-child(10) img {
+    transform: translateY(-19000px) translateX(-7000px) rotate(10deg);
+    scale: 10%;
+}   
 
 
 
